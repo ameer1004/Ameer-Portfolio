@@ -57,7 +57,7 @@ export default function Projects() {
         <div className="project-card-component">
           <img
             className="vacation-image"
-            src={require("../img/vacations website.jpg")}
+            src={require("../img/vacation website.png")}
             alt="project"
           />
           <div className="project-title">
