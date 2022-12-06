@@ -305,7 +305,11 @@ Link.undecoration {
 .Project-Container {
   display: flex;
   flex-wrap: wrap;
-  row-gap: 10px;
+  gap: 10px;
+}
+.vacation-image {
+  height: 100%;
+  z-index: 5;
 }
 
 .links {

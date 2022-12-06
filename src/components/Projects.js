@@ -30,7 +30,7 @@ export default function Projects() {
           <div className="project-title">
             <h3>Api Movies</h3>
             <button className="btn">
-              <a href="https://movies-api-homework.herokuapp.com/">See More</a>{" "}
+              <a href="https://api-movies-q7th.onrender.com">See More</a>{" "}
             </button>{" "}
           </div>
         </div>
@@ -39,7 +39,7 @@ export default function Projects() {
           <div className="project-title">
             <h3>Shoes Store Project</h3>
             <button className="btn">
-              <a href="https://react-homework-2.herokuapp.com/app">See More</a>{" "}
+              <a href="https://shoes-store-zmnr.onrender.com/">See More</a>{" "}
             </button>{" "}
           </div>
         </div>
@@ -49,6 +49,32 @@ export default function Projects() {
             <h3>Cryptonite Project</h3>
             <button className="btn">
               <a href="https://ameer1004.github.io/Project2-Crypto/">
+                See More
+              </a>{" "}
+            </button>{" "}
+          </div>
+        </div>
+        <div className="project-card-component">
+          <img
+            className="vacation-image"
+            src={require("../img/vacations website.jpg")}
+            alt="project"
+          />
+          <div className="project-title">
+            <h3>Vacations Website </h3>
+            <button className="btn">
+              <a href="https://github.com/ameer1004/Project3-Ameer-Vacations-Website.git">
+                See More
+              </a>{" "}
+            </button>{" "}
+          </div>
+        </div>
+        <div className="project-card-component">
+          <img src={require("../img/shopping online.jpg")} alt="project" />
+          <div className="project-title">
+            <h3>Shopping Online Website </h3>
+            <button className="btn">
+              <a href="https://shopping-online-project.herokuapp.com/login">
                 See More
               </a>{" "}
             </button>{" "}
