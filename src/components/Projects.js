@@ -63,9 +63,7 @@ export default function Projects() {
           <div className="project-title">
             <h3>Vacations Website </h3>
             <button className="btn">
-              <a href="https://github.com/ameer1004/Project3-Ameer-Vacations-Website.git">
-                See More
-              </a>{" "}
+              <a href="https://vacations-project.onrender.com/">See More</a>{" "}
             </button>{" "}
           </div>
         </div>
