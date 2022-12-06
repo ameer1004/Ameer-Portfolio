@@ -29,7 +29,7 @@ export default function Contact() {
             <div className="social-icons">
               <div className="icon-div">
                 <a
-                  href="https://www.linkedin.com/in/%D7%90%D7%9E%D7%99%D7%A8-%D7%A2%D7%99%D7%9E%D7%A8%D7%90%D7%9F-437a54206/"
+                  href="https://www.linkedin.com/in/ameer-emran-437a54206/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
